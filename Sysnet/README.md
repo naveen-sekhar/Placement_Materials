@@ -1,35 +1,6 @@
 # SYSNET Global Technologies — SOC L1 / Security Analyst L1 (₹3 LPA)
-### Campus Placement Preparation Guide for Freshers
-
-> **Research date:** 15 September 2026
-> **Target role:** SOC L1 Analyst / Security Analyst L1
-> **Package:** ₹3.0 LPA (typical fresher SOC L1 band in Indian IT-infra/MSSP companies)
-> **Company:** Sysnet Global Technologies (P) Ltd — https://sysnetglobal.com/
 
 ---
-
-## 1. THE COMPANY
-
-### 1.1 Company profile — [CONFIRMED]
-
-| Attribute | Detail | Source |
-|---|---|---|
-| Legal name | Sysnet Global Technologies (P) Ltd | [Official site](https://sysnetglobal.com/) |
-| Founded | 1999 (25+ years of operations) | Official site / Tracxn |
-| HQ | New Delhi (Okhla Industrial Estate Phase 1) | Official site |
-| Core business | IT Infrastructure Management Services (IMS) | Official site |
-| CEO | Arush Sogani | Official site |
-| COO | Vinod Gaonkar | Official site |
-| CFO & Head HR Ops | Vijendra Kumar Gupta | Official site |
-| Headcount | ~3,705 (as of Mar 2025); 4,000+ field force claimed on site | [Tracxn](https://tracxn.com/d/companies/sysnet-global-technologies/__-BfCCmyKcXxVxjWIV4ogrZIPC8AtZviq6RdxBgBfTlw) / Official site |
-| Revenue band | ₹100 Cr – ₹500 Cr (FY ending Mar 2025) | Tracxn |
-| Certifications | ISO 27001:2013, ISO 20000-1:2011, ISO 9001 | [IndiaMART company listing](https://www.indiamart.com/sysnet-glob/aboutus.html) |
-| Footprint | 100+ branches, 1,500+ service locations, 100+ parts centers, 3 warehouses, 3,500+ engineers | Official site |
-| Glassdoor rating | ~3.9–4.0 / 5 (160+ reviews) | [Glassdoor](https://www.glassdoor.co.in/Reviews/Sysnet-Global-Technologies-Reviews-E512463.htm) |
-
-**Named partners/clients [CONFIRMED]:** Lenovo, IBM, Acer, TCS, CTR, Kyndryl, Samsung, DXC, Hughes, Dell, HP, Pantum, Minosha, MSI, Amway. Client industries: Banking, Insurance, Corporate, Health, Hospitality, Government/Semi-Government/PSU.
-
-**Memorize this line:** *"SYSNET is a 25-year-old Indian IT infrastructure management company headquartered in New Delhi, delivering cloud, security, infrastructure, field and professional services across 1,500+ locations in India, with a partner ecosystem including IBM, Kyndryl, TCS, DXC, Lenovo, Dell and HP."*
 
 ### 1.2 The six service lines — [CONFIRMED]
 
@@ -76,14 +47,6 @@ SYSNET is an **IT services / managed-services provider**, not a product company.
 
 ---
 
-## 2. JD ANALYSIS
-
-### 2.1 Honest disclosure on sourcing — [CONFIRMED / limitation]
-
-**No public SYSNET SOC L1 job description was found** on sysnetglobal.com, LinkedIn, Naukri, Indeed or Glassdoor as of this research date. SYSNET's [careers page](https://sysnetglobal.com/careers.php) only offers a generic application form with role options: *Desktop/Laptop Engineer, Network Engineer, Mac & Server Engineer, Printer Engineer, Administrator, Coordinator, Team Leader, Manager, others* — **no security/SOC role is listed**. Glassdoor shows only **1 open SYSNET job**; Indeed listings for SYSNET are overwhelmingly Customer Support Engineer / Remote Support Engineer / Desktop Support roles at ₹1–3 LPA.
-
-**What this means for you:** the campus JD your TPO circulated is the authoritative document. Read it line by line and treat every named tool in it as a mandatory study item. The reconstruction below is built from (a) SYSNET's published security capabilities and (b) the consistent structure of Indian SOC L1 JDs at comparable employers (Deloitte India SOC L1, IBM Chennai, NTT Data, Assystem Gurugram), all reviewed during this research.
-
 ### 2.2 Reconstructed SOC L1 JD — [INFERRED]
 
 **Responsibilities you should expect:**
@@ -116,97 +79,6 @@ SYSNET is an **IT services / managed-services provider**, not a product company.
 3. **Windows/AD + log literacy** — event IDs, where logs live, what a log line means.
 4. **SIEM concept fluency** — you do not need years of Splunk, you need to explain log source → parsing → correlation rule → alert → triage.
 5. **Communication + shift willingness** — SYSNET is a client-facing services company. Candidate reviews repeatedly stress communication skills.
-
----
-
-## 3. HIRING PROCESS
-
-### 3.1 What SYSNET candidates actually report — [REPORTED]
-
-Aggregated from **15 Glassdoor interview reports** (updated to 11 Jul 2024) and ~150 Indeed interview respondents. **Note: these are non-SOC roles (support, network, server, engineering, management). No SOC Analyst interview report for SYSNET exists publicly.** Treat as *company culture signal*, not role-specific.
-
-| Metric | Reported value | Source |
-|---|---|---|
-| Interview difficulty | ~2.7–2.8 / 5 (Easy–Medium) | Glassdoor |
-| Positive experience | 82–86% | Glassdoor |
-| Avg. time to hire | ~4 days (range: 1 day to 14 days) | Glassdoor (15 interviews) |
-| Indeed view of process | "medium" difficulty, ~1 week, favourable | Indeed |
-
-**Reported process stages, by frequency (Glassdoor, 15 interviews):**
-Background check 18% · Skills test 16% · Personality test 14% · Phone interview 14% · One-on-one interview 13% · Presentation 11% · Group panel 7% · IQ/intelligence test 5% · Other 2%
-
-**Reported round structures — [REPORTED]:**
-- *"2 technical rounds and 1 Management round… 1st round is deep technical, 2nd is mixed managerial and technical, 3rd is about the commercials"* — Glassdoor, experienced hire
-- *"There are 4 rounds… final gets from COO. They move very quickly once you're done with the first round"* — Glassdoor, New Delhi, Feb 2022
-- *"2 rounds of interview held, one telephonic and one face to face with BM"* — Glassdoor, Customer Support Engineer, Guwahati, Dec 2021
-- *"Only one interview round, interview questions were not so difficult"* — Glassdoor, Senior Technical Engineer, Mumbai, Jun 2022
-- *"Face to face interview… very easy to crack… you must learn something about the hardware side; communication skills are required for this company to work with client office"* — Glassdoor, IT Support Engineer, **Chennai**, Mar 2022
-
-> ⚠️ **Historical note:** most detailed SYSNET interview reports are from **Dec 2021 – Jun 2022**, posted to Glassdoor through Jul 2024. They describe lateral/experienced hiring, not campus drives. The process has almost certainly changed for a 2026 campus drive.
-
-### 3.2 Most likely campus drive structure — [INFERRED]
-
-```
-Round 0  Pre-placement talk + resume/eligibility shortlist
-         (60%+ throughout is the usual campus bar; confirm with your TPO)
-            ↓
-Round 1  Online assessment — aptitude + logical reasoning + English
-         + basic networking/cybersecurity MCQs
-         (Glassdoor confirms SYSNET uses skills tests 16%, IQ tests 5%, personality tests 14%)
-            ↓
-Round 2  Technical interview — networking, security fundamentals,
-         SOC/SIEM concepts, scenario questions, resume projects
-            ↓
-Round 3  Managerial / technical-HR — situational, shift readiness, client handling
-         (may be merged with Round 2 in a campus drive)
-            ↓
-Round 4  HR — relocation, shift, bond/service agreement, notice, documentation
-            ↓
-         Offer + background verification (18% of SYSNET reports mention background check)
-```
-
-**Realistic expectation:** for a ₹3 LPA campus drive, expect a **compressed 2–3 round process completed in one day**, most likely OA/aptitude → technical → HR. Budget prep as if all four rounds happen.
-
----
-
-## 4. INTERVIEW RESEARCH — what actually exists
-
-### 4.1 Searches performed
-
-All of the following were searched across Glassdoor, AmbitionBox, Indeed, Reddit, GeeksforGeeks, LinkedIn, YouTube, Quora, Naukri Code360, Scribd and general web:
-
-| Query | Result |
-|---|---|
-| "SYSNET Global Technologies SOC Analyst interview" | ❌ No SOC-specific results |
-| "SYSNET Security Analyst interview" | ❌ No results |
-| "SYSNET SOC L1 interview" | ❌ No results |
-| "SYSNET cybersecurity interview" | ❌ No results |
-| "SYSNET campus placement interview" | ❌ No campus drive experiences found |
-| "SYSNET interview experience" | ✅ 15 Glassdoor reports (non-security roles) |
-| "SYSNET interview questions" | ✅ 15 Glassdoor questions; 4 Indeed answers |
-
-### 4.2 🔥 ACTUALLY REPORTED SYSNET questions — [REPORTED]
-
-These are verbatim from candidate submissions. **All are from non-SOC roles.** Included because they show what SYSNET interviewers value (practical, hands-on, no-nonsense):
-
-| # | Question | Role | Location | Date | Source |
-|---|---|---|---|---|---|
-| 1 | *"What is RAM, how is it used?"* | IT Support Engineer | Chennai | Interviewed Mar 2022, posted Jul 2024 | [Glassdoor](https://www.glassdoor.co.in/Interview/Sysnet-Global-Technologies-Interview-Questions-E512463.htm) |
-| 2 | *"Day-to-day activity of your previous organization"* | Senior Technical Engineer | Mumbai | Jun 2022 | Glassdoor |
-| 3 | *"How to enroll a Windows device in Intune"* | Senior Technical Engineer | Mumbai | Jun 2022 | Glassdoor |
-| 4 | *"What do you know about troubleshooting?"* | Customer Support Engineer | Guwahati | Dec 2021 | Glassdoor |
-| 5 | *"Salutation-based / situation-based questions"* (candidate's wording) | Unspecified | New Delhi | Feb 2022 | Glassdoor |
-
-**The honest signal from these five:** SYSNET interviewers ask **basic, practical, hands-on questions** and weight **communication** heavily. Difficulty rating 2.7/5. They are not going to ask you to reverse-engineer malware. They *will* notice if you cannot explain a simple concept clearly.
-
-### 4.3 What no source says — stated plainly
-
-- ❌ No verified SYSNET SOC L1 interview question exists in public sources.
-- ❌ No verified SYSNET campus placement experience exists in public sources.
-- ❌ No confirmation of a ₹3 LPA SOC L1 package from SYSNET itself; this figure comes from your drive announcement.
-- ❌ No confirmation of which SIEM/EDR products SYSNET's SOC runs. The Security Solutions page shows five unlabelled partner logos.
-
-**Anything presented below as a "question" that is not in table 4.2 is labelled ⭐ or ○ and is a projection, not a report. Nothing has been invented and attributed to SYSNET.**
 
 ---
 
@@ -494,29 +366,6 @@ Where do you see yourself in 3 years? (L2 analyst / incident response — show a
 | 🟡 **MEDIUM** | One hands-on SIEM (Splunk/Sentinel/Wazuh) · Python or PowerShell basics · Cloud security acronyms (CSPM/CWPP/CASB/CNAPP) · Active Directory depth · Wireshark/Nmap · Certifications |
 | 🔵 **LOW / SKIP** | Pentesting, reverse engineering, memory forensics, detection engineering, DSA and coding rounds, deep compliance frameworks |
 
-### 9.4 Seven-day preparation plan
-
-**Day 1 — Networking core**
-OSI, TCP/IP, TCP vs UDP, handshake, all common ports (make flashcards), subnetting practice (10 problems), DNS, DHCP/DORA, NAT. *Output: recite all 7 OSI layers with a protocol and an attack for each, unaided.*
-
-**Day 2 — Network security + security fundamentals**
-Firewalls, IDS vs IPS, proxy, VPN, DMZ. CIA, AAA, threat/vuln/risk, encryption vs hashing vs encoding, PKI/TLS. OWASP: Injection, Broken Auth, Misconfiguration, XSS (SYSNET's four). *Output: write one-paragraph answers to Q4–Q11 of §9.1 from memory.*
-
-**Day 3 — SOC operations + SIEM**
-SOC tiers, triage workflow, SLA/MTTD/MTTR, TP/FP/BTP, playbooks, escalation. SIEM architecture and SYSNET's six SIEM attributes. Install **Splunk Free** or **Wazuh** in a VM; ingest Windows logs; write one query for Event ID 4625. *Output: a working SIEM query you can describe.*
-
-**Day 4 — Windows, Linux, logs**
-Memorise the event ID table in §6.5. Active Directory basics, Kerberos vs NTLM, Sysmon. Linux `/var/log/auth.log`, permissions, the grep/awk failed-login pipeline. *Output: explain what 4625 → 4624 → 4672 in sequence means.*
-
-**Day 5 — Threats, IR, ATT&CK**
-NIST and SANS IR lifecycles, Cyber Kill Chain, MITRE ATT&CK tactics + T1566/T1059/T1110. IOC vs IOA, Pyramid of Pain. Malware types, ransomware chain, LOLBins. Phishing header analysis — practise on a real email in your own inbox. Tour VirusTotal, AbuseIPDB, URLScan, CyberChef, MXToolbox. *Output: analyse one real phishing email end to end and write it up.*
-
-**Day 6 — Scenarios + project + aptitude**
-Rehearse all nine scenarios in §7 out loud, timed to 90 seconds each. Polish your project narrative in STAR form. Two hours of aptitude and logical reasoning (percentages, ratios, time-speed-distance, series, syllogisms, data interpretation) plus basic English. *Output: nine scenarios delivered fluently without notes.*
-
-**Day 7 — Company + HR + mock**
-Re-read [sysnetglobal.com](https://sysnetglobal.com/) home, [Security Solutions](https://sysnetglobal.com/security-solutions.php), About Us and Careers. Memorise: ADAM, six service lines, SIEM's six attributes, ISO 27001/20000-1/9001, 1,500+ locations, 3,500+ engineers, partners, CEO Arush Sogani. Rehearse all of §8. Do a full mock interview with a friend. Print your resume and know every line on it. *Output: 90-second "Why SYSNET" delivered without hesitation.*
-
 ### 9.5 Final 24-hour revision checklist
 
 **Knowledge — tick each only if you can say it out loud, unaided**
@@ -568,17 +417,6 @@ Re-read [sysnetglobal.com](https://sysnetglobal.com/) home, [Security Solutions]
 
 ---
 
-## 10. EVIDENCE INDEX
-
-### 10.1 Label key
-
-| Label | Meaning |
-|---|---|
-| **[CONFIRMED]** | Verified from an official SYSNET source or a reputable company database |
-| **[REPORTED]** | Submitted by an actual candidate on a public interview platform, with date |
-| **[INFERRED]** | Projected from SYSNET's business model, published capabilities, and standard Indian SOC L1 hiring patterns |
-| **[RECOMMENDED]** | Preparation advice from this guide, not a claim about SYSNET |
-
 ### 10.2 Sources
 
 **Official SYSNET — [CONFIRMED]**
@@ -623,7 +461,3 @@ Re-read [sysnetglobal.com](https://sysnetglobal.com/) home, [Security Solutions]
 **Master networking fundamentals cold, be able to walk through a phishing and a brute-force investigation step by step, know Windows event IDs and what a SIEM does, be able to name SYSNET's ADAM model in your "Why SYSNET" answer, and say an unhesitating yes to 24x7 shifts.** SYSNET's reported interview difficulty is 2.7 out of 5 and its candidates consistently say communication matters as much as technical depth — so clarity beats cleverness. Explain simple things well.
 
 **Good luck. 🛡️**
-
----
-
-*Compiled 15 September 2026. Sources are dated where possible; interview reports from 2021–2022 are explicitly flagged as historical. Verify current details against your TPO's official drive communication.*
